@@ -10,4 +10,4 @@ $(".colour-value span").click(function () {
         "background": $(this).attr("data-color"),
         "border-color": $(this).attr("data-color")
     });
-}); 
+});
